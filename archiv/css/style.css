@@ -1,0 +1,15 @@
+#ctverecek {
+    margin-top: 20px;
+    border: solid 1px #6c757d;
+    background: grey;
+    padding: 1px;
+    height: 50px;
+    width: 50px;
+    margin-left: 5px;
+    font-size: 10px;
+  }
+  
+  #move {   /*zatim nefunguje - pro funkci v JS*/
+    margin-left: 60px;
+  }
+  
